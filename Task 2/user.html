@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <div class="icon-circle">🧑</div>
+  <h2>User Profile</h2>
+
+  <!-- VIEW MODE -->
+  <div id="viewMode">
+    <p>👤 <b>Name:</b> <span id="vName"></span></p>
+    <p>🎂 <b>Age:</b> <span id="vAge"></span></p>
+    <p>📞 <b>Phone:</b> <span id="vPhone"></span></p>
+    <p>📧 <b>Email:</b> <span id="vEmail"></span></p>
+    <p>🏠 <b>Address:</b> <span id="vAddress"></span></p>
+    <p>🔢 <b>Pincode:</b> <span id="vPincode"></span></p>
+
+    <button onclick="enableEdit()">Update Profile</button>
+    <button onclick="openPasswordModal()">Change Password</button>
+    <button class="back-btn" onclick="logout()">Logout</button>
+  </div>
+
+  <!-- EDIT MODE -->
+  <div id="editMode" style="display:none;">
+    <label>Name</label>
+    <div class="field"><span>👤</span><input id="eName"></div>
+
+    <label>Age</label>
+    <div class="field"><span>🎂</span><input type="number" id="eAge"></div>
+
+    <label>Phone</label>
+    <div class="field"><span>📞</span><input id="ePhone"></div>
+
+    <label>Email</label>
+    <div class="field"><span>📧</span><input id="eEmail" disabled></div>
+
+    <label>Address</label>
+    <div class="field"><span>🏠</span><textarea id="eAddress"></textarea></div>
+
+    <label>Pincode</label>
+    <div class="field"><span>🔢</span><input id="ePincode"></div>
+
+    <button onclick="updateProfile()">Update Changes</button>
+    <button class="back-btn" onclick="cancelEdit()">Cancel</button>
+  </div>
+</div>
+
+<!-- PASSWORD MODAL -->
+<div class="modal" id="passwordModal">
+  <div class="modal-box">
+    <h3>Change Password</h3>
+
+    <label>New Password</label>
+    <input type="password" id="newPassword">
+
+    <label>Confirm Password</label>
+    <input type="password" id="confirmPassword">
+
+    <button onclick="changePassword()">Confirm</button>
+    <button class="back-btn" onclick="closePasswordModal()">Cancel</button>
+
+    <p id="passError"></p>
+  </div>
+</div>
+
+<script src="user.js"></script>
+</body>
+</html>

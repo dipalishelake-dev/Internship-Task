@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1767673427754,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9876543210",
+    "email": "dipali@gmail.com",
+    "address": "Pune",
+    "pincode": 411001,
+    "password": "12345"
+  },
+  {
+    "id": 1767676758091,
+    "name": "Dipali",
+    "age": 44,
+    "phone": "8975874566",
+    "email": "dipalishe@gmail.com",
+    "address": "p",
+    "pincode": 437476,
+    "password": "2222"
+  },
+  {
+    "id": 1767676881116,
+    "name": "Dipali",
+    "age": 44,
+    "phone": "8975874533",
+    "email": "di@gmail.com",
+    "address": "baramati",
+    "pincode": 437476,
+    "password": "3333"
+  },
+  {
+    "id": 1767677360801,
+    "name": "Dipali",
+    "age": 44,
+    "phone": "8975874533",
+    "email": "shelake@gmail.com",
+    "address": "pune",
+    "pincode": 437476,
+    "password": "2222"
+  },
+  {
+    "id": 1767677491444,
+    "name": "Dipali",
+    "age": 44,
+    "phone": "8975874533",
+    "email": "shelake123@gmail.com",
+    "address": "pune",
+    "pincode": 437476,
+    "password": "2222"
+  },
+  {
+    "id": 1767677646581,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9876543210",
+    "email": "dipa@gmail.com",
+    "address": "Pune",
+    "pincode": 411001,
+    "password": "12345"
+  },
+  {
+    "id": 1767678498232,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9872437468",
+    "email": "dipalid@gmail.com",
+    "address": "pune",
+    "pincode": 365453,
+    "password": "5555"
+  },
+  {
+    "id": 1767678718236,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "8675664568",
+    "email": "dip@gmail.com",
+    "address": "pandharpur",
+    "pincode": 337657,
+    "password": "7777"
+  },
+  {
+    "id": 1767679378450,
+    "name": "Dipali",
+    "age": 11,
+    "phone": "9837866457",
+    "email": "d@gmail.com",
+    "address": "pune",
+    "pincode": 354543,
+    "password": "2222"
+  },
+  {
+    "id": 1767681994905,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "5899867549",
+    "email": "she@gmail.com",
+    "address": "pune",
+    "pincode": 444433,
+    "password": "3333"
+  },
+  {
+    "id": 1767682144454,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9876543210",
+    "email": "l@gmail.com",
+    "address": "Pune",
+    "pincode": 411001,
+    "password": "12345"
+  },
+  {
+    "id": 1767682573142,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "5899867533",
+    "email": "lake@gmail.com",
+    "address": "vidyanagari Baramati",
+    "pincode": 444433,
+    "password": "5555"
+  },
+  {
+    "id": 1767682721947,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9364745675",
+    "email": "pali@gmail.com",
+    "address": "pune",
+    "pincode": 455645,
+    "password": "5555"
+  },
+  {
+    "id": 1767689915250,
+    "name": "sanket",
+    "age": 21,
+    "phone": "9876543211",
+    "email": "sanket@gmail.com",
+    "address": "Pune",
+    "pincode": 963852,
+    "password": "123456"
+  },
+  {
+    "id": 1767689970987,
+    "name": "abc",
+    "age": 22,
+    "phone": "9638527410",
+    "email": "abc@gmail.com",
+    "address": "pune",
+    "pincode": 963852,
+    "password": "123456"
+  },
+  {
+    "id": 1767690190450,
+    "name": "pqr",
+    "age": 21,
+    "phone": "9638527410",
+    "email": "pqr@gmail.com",
+    "address": "pune",
+    "pincode": 963852,
+    "password": "123"
+  },
+  {
+    "id": 1767692591215,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9874836847",
+    "email": "disps@gmail.com",
+    "address": "p",
+    "pincode": 673542,
+    "password": "5555"
+  },
+  {
+    "id": 1767692710990,
+    "name": "Dipali",
+    "age": 22,
+    "phone": "9874836847",
+    "email": "dispsp@gmail.com",
+    "address": "p",
+    "pincode": 673542,
+    "password": "5555"
+  }
+]
